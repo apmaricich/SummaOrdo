@@ -1,0 +1,251 @@
+FOURTH ARTICLE [II-II, Q. 79, Art. 4]
+
+Whether a Sin of Omission Is More Grievous Than a Sin of
+Transgression?
+Objection 1: It would seem that a sin of omission is more grievous
+than a sin of transgression. For _delictum_ would seem to signify the
+same as _derelictum_ [*Augustine, QQ. in Levit., qu. xx], and
+therefore is seemingly the same as an omission. But _delictum_
+denotes a more grievous offence than transgression, because it
+deserves more expiation as appears from Lev. 5. Therefore the sin of
+omission is more grievous than the sin of transgression.
+Obj. 2: Further, the greater evil is opposed to the greater good, as
+the Philosopher declares (Ethic. viii, 10). Now to do good is a more
+excellent part of justice, than to decline from evil, to which
+transgression is opposed, as stated above (A. 1, ad 3). Therefore
+omission is a graver sin than transgression.
+Obj. 3: Further, sins of transgression may be either venial or
+mortal. But sins of omission seem to be always mortal, since they are
+opposed to an affirmative precept. Therefore omission would seem to
+be a graver sin than transgression.
+Obj. 4: Further, the pain of loss which consists in being deprived of
+seeing God and is inflicted for the sin of omission, is a greater
+punishment than the pain of sense, which is inflicted for the sin of
+transgression, as Chrysostom states (Hom. xxiii super Matth.). Now
+punishment is proportionate to fault. Therefore the sin of omission
+is graver than the sin of transgression.
+_On the contrary,_ It is easier to refrain from evil deeds than to
+accomplish good deeds. Therefore it is a graver sin not to refrain
+from an evil deed, i.e. _to transgress,_ than not to accomplish a
+good deed, which is _to omit._
+_I answer that,_ The gravity of a sin depends on its remoteness from
+virtue. Now contrariety is the greatest remoteness, according to
+_Metaph._ x [*Didot. ed. ix, 4]. Wherefore a thing is further removed
+from its contrary than from its simple negation; thus black is
+further removed from white than not-white is, since every black is
+not-white, but not conversely. Now it is evident that transgression
+is contrary to an act of virtue, while omission denotes the negation
+thereof: for instance it is a sin of omission, if one fail to give
+one's parents due reverence, while it is a sin of transgression to
+revile them or injure them in any way. Hence it is evident that,
+simply and absolutely speaking, transgression is a graver sin than
+omission, although a particular omission may be graver than a
+particular transgression.
+Reply Obj. 1: _Delictum_ in its widest sense denotes any kind of
+omission; but sometimes it is taken strictly for the omission of
+something concerning God, or for a man's intentional and as it were
+contemptuous dereliction of duty: and then it has a certain gravity,
+for which reason it demands a greater expiation.
+Reply Obj. 2: The opposite of _doing good_ is both _not doing good,_
+which is an omission, and _doing evil,_ which is a transgression: but
+the first is opposed by contradiction, the second by contrariety,
+which implies greater remoteness: wherefore transgression is the more
+grievous sin.
+Reply Obj. 3: Just as omission is opposed to affirmative precepts, so
+is transgression opposed to negative precepts: wherefore both,
+strictly speaking, have the character of mortal sin. Transgression
+and omission, however, may be taken broadly for any infringement of
+an affirmative or negative precept, disposing to the opposite of such
+precept: and so taking both in a broad sense they may be venial sins.
+Reply Obj. 4: To the sin of transgression there correspond both the
+pain of loss on account of the aversion from God, and the pain of
+sense, on account of the inordinate conversion to a mutable good. In
+like manner omission deserves not only the pain of loss, but also the
+pain of sense, according to Matt. 7:19, "Every tree that bringeth not
+forth good fruit shall be cut down, and shall be cast into the fire";
+and this on account of the root from which it grows, although it does
+not necessarily imply conversion to any mutable good.
+OF THE POTENTIAL PARTS OF JUSTICE
+(In One Article)
+We must now consider the potential parts of justice, namely the
+virtues annexed thereto; under which head there are two points of
+consideration:
+(1) What virtues are annexed to justice?
+(2) The individual virtues annexed to justice.
+ARTICLE [II-II, Q. 80, Art.]
+Whether the Virtues Annexed to Justice Are Suitably Enumerated?
+Objection 1: It would seem that the virtues annexed to justice are
+unsuitably enumerated. Tully [*De Invent. ii, 53] reckons six, viz.
+"religion, piety, gratitude, revenge, observance, truth." Now revenge
+is seemingly a species of commutative justice whereby revenge is
+taken for injuries inflicted, as stated above (Q. 61, A. 4).
+Therefore it should not be reckoned among the virtues annexed to
+justice.
+Obj. 2: Further, Macrobius (Super Somn. Scip. i, 8) reckons seven,
+viz. "innocence, friendship, concord, piety, religion, affection,
+humanity," several of which are omitted by Tully. Therefore the
+virtues annexed to justice would seem to be insufficiently enumerated.
+Obj. 3: Further, others reckon five parts of justice, viz.
+"obedience" in respect of one's superiors, "discipline" with regard
+to inferiors, "equity" as regards equals, "fidelity" and
+"truthfulness" towards all; and of these "truthfulness" alone is
+mentioned by Tully. Therefore he would seem to have enumerated
+insufficiently the virtues annexed to justice.
+Obj. 4: Further, the peripatetic Andronicus [*De Affectibus] reckons
+nine parts annexed to justice viz. "liberality, kindliness, revenge,
+commonsense, [*_eugnomosyne_] piety, gratitude, holiness, just
+exchange" and "just lawgiving"; and of all these it is evident that
+Tully mentions none but "revenge." Therefore he would appear to have
+made an incomplete enumeration.
+Obj. 5: Further, Aristotle (Ethic. v, 10) mentions _epieikeia_ as
+being annexed to justice: and yet seemingly it is not included in any
+of the foregoing enumerations. Therefore the virtues annexed to
+justice are insufficiently enumerated.
+_I answer that,_ Two points must be observed about the virtues
+annexed to a principal virtue. The first is that these virtues have
+something in common with the principal virtue; and the second is that
+in some respect they fall short of the perfection of that virtue.
+Accordingly since justice is of one man to another as stated above
+(Q. 58, A. 2), all the virtues that are directed to another person
+may by reason of this common aspect be annexed to justice. Now the
+essential character of justice consists in rendering to another his
+due according to equality, as stated above (Q. 58, A. 11). Wherefore
+in two ways may a virtue directed to another person fall short of the
+perfection of justice: first, by falling short of the aspect of
+equality; secondly, by falling short of the aspect of due. For
+certain virtues there are which render another his due, but are
+unable to render the equal due. In the first place, whatever man
+renders to God is due, yet it cannot be equal, as though man rendered
+to God as much as he owes Him, according to Ps. 115:12, "What shall I
+render to the Lord for all the things that He hath rendered to me?"
+In this respect _religion_ is annexed to justice since, according to
+Tully (De invent. ii, 53), it consists in offering service and
+ceremonial rites or worship to "some superior nature that men call
+divine." Secondly, it is not possible to make to one's parents an
+equal return of what one owes to them, as the Philosopher declares
+(Ethic. viii, 14); and thus _piety_ is annexed to justice, for
+thereby, as Tully says (De invent. ii, 53), a man "renders service
+and constant deference to his kindred and the well-wishers of his
+country." Thirdly, according to the Philosopher (Ethic. iv, 3), man
+is unable to offer an equal meed for virtue, and thus _observance_ is
+annexed to justice, consisting according to Tully (De invent. ii, 53)
+in the "deference and honor rendered to those who excel in worth."
+A falling short of the just due may be considered in respect of a
+twofold due, moral or legal: wherefore the Philosopher (Ethic. viii,
+13) assigns a corresponding twofold just. The legal due is that which
+one is bound to render by reason of a legal obligation; and this due
+is chiefly the concern of justice, which is the principal virtue. On
+the other hand, the moral due is that to which one is bound in
+respect of the rectitude of virtue: and since a due implies
+necessity, this kind of due has two degrees. For one due is so
+necessary that without it moral rectitude cannot be ensured: and this
+has more of the character of due. Moreover this due may be considered
+from the point of view of the debtor, and in this way it pertains to
+this kind of due that a man represent himself to others just as he
+is, both in word and deed. Wherefore to justice is annexed _truth,_
+whereby, as Tully says (De invent. ii, 53), present, past and future
+things are told without perversion. It may also be considered from
+the point of view of the person to whom it is due, by comparing the
+reward he receives with what he has done--sometimes in good things;
+and then annexed to justice we have _gratitude_ which "consists in
+recollecting the friendship and kindliness shown by others, and in
+desiring to pay them back," as Tully states (De invent. ii, 53)--and
+sometimes in evil things, and then to justice is annexed _revenge,_
+whereby, as Tully states (De invent. ii, 53), "we resist force,
+injury or anything obscure* by taking vengeance or by self-defense."
+[*St. Thomas read _obscurum,_ and explains it as meaning
+_derogatory,_ infra Q. 108, A. 2. Cicero, however, wrote _obfuturum,_
+i.e. _hurtful._]
+There is another due that is necessary in the sense that it conduces
+to greater rectitude, although without it rectitude may be ensured.
+This due is the concern of _liberality,_ _affability_ or
+_friendship,_ or the like, all of which Tully omits in the aforesaid
+enumeration because there is little of the nature of anything due in
+them.
+Reply Obj. 1: The revenge taken by authority of a public power, in
+accordance with a judge's sentence, belongs to commutative justice:
+whereas the revenge which a man takes on his own initiative, though
+not against the law, or which a man seeks to obtain from a judge,
+belongs to the virtue annexed to justice.
+Reply Obj. 2: Macrobius appears to have considered the two integral
+parts of justice, namely, _declining from evil,_ to which _innocence_
+belongs, and _doing good,_ to which the six others belong. Of these,
+two would seem to regard relations between equals, namely,
+_friendship_ in the external conduct and _concord_ internally; two
+regard our relations toward superiors, namely, _piety_ to parents,
+and _religion_ to God; while two regard our relations towards
+inferiors, namely, _condescension,_ in so far as their good pleases
+us, and _humanity,_ whereby we help them in their needs. For Isidore
+says (Etym. x) that a man is said to be "humane, through having a
+feeling of love and pity towards men: this gives its name to humanity
+whereby we uphold one another." In this sense _friendship_ is
+understood as directing our external conduct towards others, from
+which point of view the Philosopher treats of it in _Ethic._ iv, 6.
+_Friendship_ may also be taken as regarding properly the affections,
+and as the Philosopher describes it in _Ethic._ viii and ix. In this
+sense three things pertain to friendship, namely, _benevolence_ which
+is here called _affection_; _concord,_ and _beneficence_ which is
+here called _humanity._ These three, however, are omitted by Tully,
+because, as stated above, they have little of the nature of a due.
+Reply Obj. 3: _Obedience_ is included in observance, which Tully
+mentions, because both reverential honor and obedience are due to
+persons who excel. "Faithfulness whereby a man's acts agree with his
+words" [*Cicero, De Repub. iv, De Offic. i, 7], is contained in
+_truthfulness_ as to the observance of one's promises: yet
+_truthfulness_ covers a wider ground, as we shall state further on
+(Q. 109, AA. 1, 3). _Discipline_ is not due as a necessary duty,
+because one is under no obligation to an inferior as such, although a
+superior may be under an obligation to watch over his inferiors,
+according to Matt. 24:45, "A faithful and wise servant, whom his lord
+hath appointed over his family": and for this reason it is omitted by
+Tully. It may, however, be included in humanity mentioned by
+Macrobius; and equity under _epieikeia_ or under _friendship._
+Reply Obj. 4: This enumeration contains some belonging to true
+justice. To particular justice belongs _justice of exchange,_ which
+he describes as "the habit of observing equality in commutations." To
+legal justice, as regards things to be observed by all, he ascribes
+_legislative justice,_ which he describes as "the science of
+political commutations relating to the community." As regards things
+which have to be done in particular cases beside the general laws, he
+mentions _common sense_ or _good judgment,_* which is our guide in
+such like matters, as stated above (Q. 51, A. 4) in the treatise on
+prudence: wherefore he says that it is a "voluntary justification,"
+because by his own free will man observes what is just according to
+his judgment and not according to the written law. [*St. Thomas
+indicates the Greek derivation: _eugnomosyne_ quasi 'bona _gnome_.']
+These two are ascribed to prudence as their director, and to justice
+as their executor. _Eusebeia_ (piety) means _good worship_ and
+consequently is the same as religion, wherefore he says that it is
+the science of "the service of God" (he speaks after the manner of
+Socrates who said that 'all the virtues are sciences') [*Aristotle,
+_Ethic._ vi, 13]: and _holiness_ comes to the same, as we shall state
+further on (Q. 81, A. 8). _Eucharistia_ (gratitude) means "good
+thanksgiving," and is mentioned by Macrobius: wherefore Isidore says
+(Etym. x) that "a kind man is one who is ready of his own accord to
+do good, and is of gentle speech": and Andronicus too says that
+"kindliness is a habit of voluntary beneficence." _Liberality_ would
+seem to pertain to _humanity._
+Reply Obj. 5: _Epieikeia_ is annexed, not to particular but to legal
+justice, and apparently is the same as that which goes by the name of
+_eugnomosyne_ (common sense).
+OF RELIGION
+(In Eight Articles)
+We must now consider each of the foregoing virtues, in so far as
+our present scope demands. We shall consider (1) religion, (2) piety,
+(3) observance, (4) gratitude, (5) revenge, (6) truth, (7) friendship,
+(8) liberality, (9) _epieikeia_. Of the other virtues that have been
+mentioned we have spoken partly in the treatise on charity, viz. of
+concord and the like, and partly in this treatise on justice, for
+instance, of right commutations and of innocence. Of legislative
+justice we spoke in the treatise on prudence.
+Religion offers a threefold consideration: (1) Religion considered in
+itself; (2) its acts; (3) the opposite vices.
+Under the first head there are eight points of inquiry:
+(1) Whether religion regards only our relation to God?
+(2) Whether religion is a virtue?
+(3) Whether religion is one virtue?
+(4) Whether religion is a special virtue?
+(5) Whether religion is a theological virtue?
+(6) Whether religion should be preferred to the other moral virtues?
+(7) Whether religion has any external actions?
+(8) Whether religion is the same as holiness?
