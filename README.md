@@ -1,6 +1,8 @@
-# Summa Theologica AI Reference
+# Summa Ordo
 
 This repository contains the complete Summa Theologica, organized with each article in its own individual text file for easy querying and analysis by AI systems.
+
+> The highest of all sciences is theology, because it treats of the highest of all objects, namely God, who is the ultimate end of all human knowledge and action. Theology is the most certain of all sciences because its source is divine knowledge (which cannot be deceived) and because of the greater worth of its subject matter, the sublimity of which transcends human reason.
 
 ## Structure
 
