@@ -1,6 +1,6 @@
-# Summa Theologica Repository
+# Summa Theologica AI Reference
 
-This repository contains the complete Summa Theologica, organized with each article in its own individual text file for easy querying and analysis.
+This repository contains the complete Summa Theologica, organized with each article in its own individual text file for easy querying and analysis by AI systems.
 
 ## Structure
 
@@ -12,13 +12,19 @@ The Summa is organized into three main parts:
 
 ## File Organization
 
-Each article is contained in its own file with a naming convention:
-`article_{number}_{reference}.txt`
+Each article is contained in its own file organized in subdirectories by part:
+
+- `I_Pars/` - Contains articles from Prima Pars (On God)
+- `II_Pars/` - Contains articles from Prima Secundae (On the Things that Conduce to the Happiness of Man)
+- `III_Pars/` - Contains articles from Secunda Secundae (On the Things that Conduce to the Happiness of Man)
+
+Files follow the naming convention:
+`Q{question}_A{article}_{reference}.txt`
 
 For example:
-- `article_001_I,_Q._49,_Art._2.txt`
-- `article_002_II-II,_Q._1,_Art._1.txt`
-- `article_003_II-II,_Q._1,_Art._2.txt`
+- `I_Pars/Q76_A4_I,_Q.76,_Art._4.txt`
+- `II_Pars/Q1_A1_II,_Q.1,_Art._1.txt`
+- `III_Pars/Q24_A4_III,_Q.24,_Art._4.txt`
 
 ## Usage for AI Analysis
 
@@ -34,4 +40,4 @@ All content is from the Project Gutenberg edition, translated by the Fathers of 
 
 ## Repository Status
 
-This repository contains 913 individual article files, covering all articles in the Summa Theologica (Prima Secundae and Secunda Secundae portions).
+This repository contains 2,641 individual article files, covering all articles in the Summa Theologica (Prima Pars, Prima Secundae, and Secunda Secundae portions).
