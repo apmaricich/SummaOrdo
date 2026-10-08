@@ -40,7 +40,7 @@ to another. Hence the Philosopher says (Ethic. v, 3, 4) that the mean
 in the latter case follows "geometrical proportion," wherein equality
 depends not on quantity but on proportion. For example we say that 6
 is to 4 as 3 is to 2, because in either case the proportion equals
-11/2; since the greater number is the sum of the lesser plus its half:
+1½; since the greater number is the sum of the lesser plus its half:
 whereas the equality of excess is not one of quantity, because 6
 exceeds 4 by 2, while 3 exceeds 2 by 1.
 On the other hand in commutations something is paid to an individual
